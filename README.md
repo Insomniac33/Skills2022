@@ -5,22 +5,28 @@
 1. TASK 1.
 
 Task name:
+
 Manage GitHub scripts and documents
 
 
 Task preparation:
+
 Create a folder “Skills2022” in your DEVASC virtual machine and start a git repository.
 
 
-Task implementation: 
+Task implementation:
+
 I created Github repository and connected it to my local directory in VM.
 
 
-Task troubleshooting: 
+Task troubleshooting:
+
 No problem encountered
 
 
-Task verification: 
+Task verification:
+
+
 ![GIT1](https://user-images.githubusercontent.com/102242470/192362875-99f60714-d305-4fe2-93e8-d2d956373755.PNG)
 ![GIT2](https://user-images.githubusercontent.com/102242470/192363007-ebb8c1f4-d46d-4ded-ac82-52915b0836c5.PNG)
 ![GIT3](https://user-images.githubusercontent.com/102242470/192363059-06997277-0821-44bc-94b3-b3e8c8e76463.PNG)
